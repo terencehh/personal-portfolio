@@ -82,7 +82,7 @@ const Projects = () => {
                   >
                     <div className="project-wrapper__image">
                       <a
-                        href={url || '#!'}
+                        href={repo || '#!'}
                         target="_blank"
                         aria-label="Project Link"
                         rel="noopener noreferrer"
