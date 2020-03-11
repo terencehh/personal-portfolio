@@ -1,5 +1,3 @@
-@import './vendors/bootstrap.scss';
-
 @import './abstracts/mixins';
 @import './abstracts/variables';
 @import './abstracts/helpers';
@@ -16,3 +14,5 @@
 @import './sections/contact';
 @import './sections/hero';
 @import './sections/projects';
+
+@import './vendor/css/font-awesome.min.css';
