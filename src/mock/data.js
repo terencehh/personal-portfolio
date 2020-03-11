@@ -33,7 +33,7 @@ export const projectsData = [
     info:
       'An E-Commerce Web App Prototype developed using React.js on the Front-End and X on the Back-End',
     url: '',
-    repo: '',
+    repo: 'https://github.com/terencehh/',
   },
 
   {
@@ -64,7 +64,7 @@ export const projectsData = [
     info:
       'Motion Surveilance System Project that will be delivered by attaching USB Webcams onto Laptops. Front-End will be Developed using the MEAN Stack, & Back-End using C++. Server + Storage Solution will utilize AWS.',
     info2: 'Currently in Development.',
-    url: 'https://github.com/Super-HD/motion-surveillance-system',
+    url: '',
     repo: 'https://github.com/Super-HD/motion-surveillance-system',
   },
   {
@@ -74,7 +74,7 @@ export const projectsData = [
     info:
       'An iOS App I developed using Swift. This app is a time scheduler app & also an alarm app. Utilizes motion sensor on the phone to ensure the user is working productively during a specified time.',
     info2: 'Requires the user to compile the project on an iOS Device in order to run.',
-    url: 'https://github.com/terencehh/save-my-time-ios-app',
+    url: '',
     repo: 'https://github.com/terencehh/save-my-time-ios-app',
   },
   {
@@ -83,7 +83,7 @@ export const projectsData = [
     title: 'Game of Hearts AI',
     info:
       'Runs a simulation of the classic game of hearts, with an AI developed to play the game effectively. Demonstrates effective functional programming code design in Haskell. Requires a Haskell Compiler to build & run the simulation.',
-    url: 'https://github.com/terencehh/game-of-hearts-AI',
+    url: '',
     repo: 'https://github.com/terencehh/game-of-hearts-AI',
   },
 ];

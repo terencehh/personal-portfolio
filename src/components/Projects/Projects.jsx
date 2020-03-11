@@ -29,7 +29,6 @@ const Projects = () => {
           <Title title="Projects" />
           {projects.map(project => {
             const { id, title, info, info2, url, repo, img } = project;
-
             return (
               <Row key={id}>
                 <Col lg={4} sm={12}>
@@ -49,14 +48,16 @@ const Projects = () => {
                         </p>
                         <p className="mb-4">{info2 || ''}</p>
                       </div>
-                      <a
-                        target="_blank"
-                        rel="noopener noreferrer"
-                        className="cta-btn cta-btn--hero"
-                        href={url || '#!'}
-                      >
-                        See Live
-                      </a>
+                      {url && (
+                        <a
+                          className="cta-btn cta-btn--hero"
+                          target="_blank"
+                          rel="noopener noreferrer"
+                          href={url || '#!'}
+                        >
+                          See Live
+                        </a>
+                      )}
 
                       {repo && (
                         <a
