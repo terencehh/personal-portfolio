@@ -18,9 +18,12 @@ export const heroData = {
 // ABOUT DATA
 export const aboutData = {
   img: 'profile.jpg',
-  paragraphOne: '',
-  paragraphTwo: '',
-  paragraphThree: '',
+  paragraphOne:
+    'Hi there! I am a self-motivated individual with extreme passion towards software development. Presently undertaking Bachelors of Computer Science at Monash University, alongside working on large-scale tech projects.',
+  paragraphTwo:
+    'Web Development is my main field of interest as the technologies used in the field are always constantly evolving and posing exciting new challenges. I code to create wonderful web experiences & interactions that have the ability to impact millions.',
+  paragraphThree:
+    'In my free time, I am either educating myself on new tech trends, participating in Team Sports, or simply just finding the latest new movies to watch.',
   resume: 'https://dl.dropboxusercontent.com/s/la8fvu9878aidci/Terence%20Ng%20Resume.pdf?dl=0',
 };
 
@@ -32,7 +35,7 @@ export const projectsData = [
     title: 'E-Commerce Web App',
     info:
       'An E-Commerce Web App Prototype developed using React.js on the Front-End and X on the Back-End',
-    url: '',
+    url: 'https://github.com/terencehh/',
     repo: 'https://github.com/terencehh/',
   },
 
@@ -82,7 +85,8 @@ export const projectsData = [
     img: 'project.jpg',
     title: 'Game of Hearts AI',
     info:
-      'Runs a simulation of the classic game of hearts, with an AI developed to play the game effectively. Demonstrates effective functional programming code design in Haskell. Requires a Haskell Compiler to build & run the simulation.',
+      'Runs a simulation of the classic game of hearts, with an AI developed to play the game effectively. Demonstrates effective functional programming code design in Haskell.',
+    info2: 'Requires a Haskell Compiler to build & run the simulation.',
     url: '',
     repo: 'https://github.com/terencehh/game-of-hearts-AI',
   },
@@ -91,7 +95,7 @@ export const projectsData = [
 // CONTACT DATA
 export const contactData = {
   cta: 'Want to Work Together? Awesome!',
-  btn: 'Contact Me',
+  btn: 'Get in Touch',
   email: 'ngtere@live.com.sg',
 };
 
