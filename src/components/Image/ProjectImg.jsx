@@ -4,6 +4,7 @@ import PropTypes from 'prop-types';
 import Img from 'gatsby-image';
 
 // Take an image path and convert into a component
+// Utilizes GraphQL & Sharp
 const ProjectImg = ({ filename, alt }) => (
   <StaticQuery
     query={graphql`
