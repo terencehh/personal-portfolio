@@ -9,17 +9,16 @@ export const headData = {
 
 // HERO DATA
 export const heroData = {
-  title: 'Hi, my name is',
+  title: 'Hi, my name is ',
   name: 'Terence',
   subtitle: "I'm the Full Stack Developer",
-  cta: 'Know More',
 };
 
 // ABOUT DATA
 export const aboutData = {
   img: 'profile.jpg',
   paragraphOne:
-    'Hi there! I am a self-motivated individual with extreme passion towards software development. Presently undertaking Bachelors of Computer Science at Monash University, alongside working on large-scale tech projects.',
+    'Hi there! I am a self-motivated individual with extreme passion towards software development. Presently undertaking Bachelors of Computer Science at Monash University, alongside working on some large-scale tech projects.',
   paragraphTwo:
     'Web Development is my main field of interest as the technologies used in the field are always constantly evolving and posing exciting new challenges. I code to create wonderful web experiences & interactions that have the ability to impact millions.',
   paragraphThree:
@@ -31,17 +30,17 @@ export const aboutData = {
 export const projectsData = [
   {
     id: uuidv1(),
-    img: 'project.jpg',
+    img: 'e-commerce.jpg',
     title: 'E-Commerce Web App',
     info:
       'An E-Commerce Web App Prototype developed using React.js on the Front-End and X on the Back-End',
-    url: 'https://github.com/terencehh/',
-    repo: 'https://github.com/terencehh/',
+    url: 'https://github.com/terencehh/e-commerce-app',
+    repo: 'https://github.com/terencehh/e-commerce-app',
   },
 
   {
     id: uuidv1(),
-    img: 'project.jpg',
+    img: 'asteroids.jpg',
     title: 'Asteroids Game',
     info:
       'Asteroids game built using JS, HTML, & CSS. Demonstrates the use of Observer/Observables & Functional Reactive Programming as a coding design pattern for handling asynchronous events.',
@@ -52,7 +51,7 @@ export const projectsData = [
   },
   {
     id: uuidv1(),
-    img: 'project.jpg',
+    img: 'medium.jpg',
     title: 'Medium Replica',
     info:
       "Replica of Medium's (Blogging Website) website built using HTML & CSS. I love the visual design of Medium, and hence am building a replica to develop myself as a developer.",
@@ -62,7 +61,7 @@ export const projectsData = [
   },
   {
     id: uuidv1(),
-    img: 'project.jpg',
+    img: 'surveillance.jpg',
     title: 'Motion Surveillance System',
     info:
       'Motion Surveilance System Project that will be delivered by attaching USB Webcams onto Laptops. Front-End will be Developed using the MEAN Stack, & Back-End using C++. Server + Storage Solution will utilize AWS.',
@@ -72,7 +71,7 @@ export const projectsData = [
   },
   {
     id: uuidv1(),
-    img: 'project.jpg',
+    img: 'save-my-time.jpg',
     title: 'Save My Time (iOS App)',
     info:
       'An iOS App I developed using Swift. This app is a time scheduler app & also an alarm app. Utilizes motion sensor on the phone to ensure the user is working productively during a specified time.',
@@ -82,7 +81,7 @@ export const projectsData = [
   },
   {
     id: uuidv1(),
-    img: 'project.jpg',
+    img: 'game-of-hearts.jpg',
     title: 'Game of Hearts AI',
     info:
       'Runs a simulation of the classic game of hearts, with an AI developed to play the game effectively. Demonstrates effective functional programming code design in Haskell.',
@@ -94,7 +93,7 @@ export const projectsData = [
 
 // CONTACT DATA
 export const contactData = {
-  cta: 'Want to Work Together? Awesome!',
+  cta: 'Want to Work With Me? Awesome!',
   btn: 'Get in Touch',
   email: 'ngtere@live.com.sg',
 };

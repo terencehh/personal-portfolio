@@ -45,6 +45,7 @@ const Projects = () => {
                         <p>{info}</p>
                         <p className="mb-4">{info2}</p>
                       </div>
+
                       {url && (
                         <a
                           style={{ marginRight: 15 }}
@@ -59,9 +60,9 @@ const Projects = () => {
 
                       {repo && (
                         <a
+                          className="cta-btn cta-btn--hero"
                           target="_blank"
                           rel="noopener noreferrer"
-                          className="cta-btn cta-btn--hero"
                           href={repo}
                         >
                           Source Code
@@ -80,7 +81,7 @@ const Projects = () => {
                   >
                     <div className="project-wrapper__image">
                       <a
-                        href={repo || '#!'}
+                        href={repo}
                         target="_blank"
                         aria-label="Project Link"
                         rel="noopener noreferrer"
