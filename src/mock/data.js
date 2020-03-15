@@ -33,9 +33,20 @@ export const projectsData = [
     img: 'e-commerce.jpg',
     title: 'E-Commerce Web App',
     info:
-      'An E-Commerce Web App Prototype developed using React.js on the Front-End and X on the Back-End',
+      'An E-Commerce Web App Prototype developed using React.js on the Front-End and Firebase on the Back-End',
+    info2: 'Currently in Development',
     url: 'https://github.com/terencehh/e-commerce-app',
     repo: 'https://github.com/terencehh/e-commerce-app',
+  },
+  {
+    id: uuidv1(),
+    img: 'face-recognition.jpg',
+    title: 'Face Recognition App',
+    info:
+      'Full Stack App developed using the MERN Stack. This app identifies & detects faces in any image supplied.',
+    info2: 'Utilizes React, Node, Express.js & MongoDB. Currently in Development',
+    url: 'https://github.com/terencehh/face-recognition-app',
+    repo: 'https://github.com/terencehh/face-recognition-app',
   },
 
   {
@@ -75,7 +86,8 @@ export const projectsData = [
     title: 'Save My Time (iOS App)',
     info:
       'An iOS App I developed using Swift. This app is a time scheduler app & also an alarm app. Utilizes motion sensor on the phone to ensure the user is working productively during a specified time.',
-    info2: 'Requires the user to compile the project on an iOS Device in order to run.',
+    info2:
+      'This App demonstrates standard Object-Oriented Programming alongside MVC Architecture. Requires the user to compile the project on an iOS Device in order to run.',
     url: '',
     repo: 'https://github.com/terencehh/save-my-time-ios-app',
   },
@@ -84,8 +96,9 @@ export const projectsData = [
     img: 'game-of-hearts.jpg',
     title: 'Game of Hearts AI',
     info:
-      'Runs a simulation of the classic game of hearts, with an AI developed to play the game effectively. Demonstrates effective functional programming code design in Haskell.',
-    info2: 'Requires a Haskell Compiler to build & run the simulation.',
+      'An AI Developed to play the game of hearts effectively against a group of specified players. The Project runs a simulation of the classic Game of Hearts against my AI.',
+    info2:
+      'Demonstrates my proficiency of functional programming paradigm design in Haskell. Note that the project will require a Haskell Compiler to build.',
     url: '',
     repo: 'https://github.com/terencehh/game-of-hearts-AI',
   },
