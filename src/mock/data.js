@@ -33,7 +33,7 @@ export const projectsData = [
     img: 'e-commerce.jpg',
     title: 'E-Commerce Web App',
     info:
-      'An E-Commerce Web App Prototype developed using React.js on the Front-End and Firebase on the Back-End',
+      'Fully Functional E-Commerce Web App prototype that contains the main functionalities seen in prominent e-commerce web app’s nowadays. Developed using React.js & Firebase.',
     info2: 'Currently in Development',
     url: 'https://github.com/terencehh/e-commerce-app',
     repo: 'https://github.com/terencehh/e-commerce-app',
@@ -43,8 +43,8 @@ export const projectsData = [
     img: 'face-recognition.jpg',
     title: 'Face Recognition App',
     info:
-      'Full Stack App developed using the MERN Stack. This app identifies & detects faces in any image supplied.',
-    info2: 'Utilizes React, Node, Express.js & MongoDB. Currently in Development',
+      'Full Stack App developed using the MERN (MongoDB, Express.js, React.js & Node.js) Stack. This app identifies & detects faces in any image supplied.',
+    info2: 'Currently in Development',
     url: 'https://github.com/terencehh/face-recognition-app',
     repo: 'https://github.com/terencehh/face-recognition-app',
   },
@@ -54,7 +54,7 @@ export const projectsData = [
     img: 'asteroids.jpg',
     title: 'Asteroids Game',
     info:
-      'Asteroids game built using JS, HTML, & CSS. Demonstrates the use of Observer/Observables & Functional Reactive Programming as a coding design pattern for handling asynchronous events.',
+      'Asteroids game built using JS, HTML, & CSS. Demonstrates the use of Observer/Observables & Functional Reactive Programming as a coding design pattern for handling asynchronous events & state management.',
     info2:
       'Controls for My game are Left/Right Key to Rotate, Up Key to Thrust, Space Key to Shoot Projectiles.',
     url: 'https://terencehh.github.io/asteroids-game/',
@@ -75,7 +75,7 @@ export const projectsData = [
     img: 'surveillance.jpg',
     title: 'Motion Surveillance System',
     info:
-      'Motion Surveilance System Project that will be delivered by attaching USB Webcams onto Laptops. Front-End will be Developed using the MEAN Stack, & Back-End using C++. Server + Storage Solution will utilize AWS.',
+      'Motion Surveillance System Project that will be delivered by attaching USB Webcams onto Laptops. Front-End will be Developed using the MEAN Stack, & Back-End using C++. Server + Storage Solution will utilize AWS.',
     info2: 'Currently in Development.',
     url: '',
     repo: 'https://github.com/Super-HD/motion-surveillance-system',
@@ -98,7 +98,7 @@ export const projectsData = [
     info:
       'An AI Developed to play the game of hearts effectively against a group of specified players. The Project runs a simulation of the classic Game of Hearts against my AI.',
     info2:
-      'Demonstrates my proficiency of functional programming paradigm design in Haskell. Note that the project will require a Haskell Compiler to build.',
+      'Demonstrates my proficiency of functional programming code design in Haskell. Note that the project will require a Haskell Compiler to build.',
     url: '',
     repo: 'https://github.com/terencehh/game-of-hearts-AI',
   },
