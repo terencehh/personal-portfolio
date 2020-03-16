@@ -11,7 +11,7 @@ export const headData = {
 export const heroData = {
   title: 'Hi, my name is ',
   name: 'Terence',
-  subtitle: "I'm the Full Stack Developer",
+  subtitle: "I'm the Software Engineer",
 };
 
 // ABOUT DATA
@@ -87,7 +87,7 @@ export const projectsData = [
     info:
       'An iOS App I developed using Swift. This app is a time scheduler app & also an alarm app. Utilizes motion sensor on the phone to ensure the user is working productively during a specified time.',
     info2:
-      'This App demonstrates standard Object-Oriented Programming alongside MVC Architecture. Requires the user to compile the project on an iOS Device in order to run.',
+      'This App demonstrates standard Object-Oriented Programming alongside MVC Programming Architecture. Requires the user to compile the project on an iOS Device in order to run.',
     url: '',
     repo: 'https://github.com/terencehh/save-my-time-ios-app',
   },
