@@ -20,7 +20,7 @@ export const aboutData = {
   paragraphOne:
     'Hi there! I am a self-motivated individual with extreme passion towards software development. Presently undertaking Bachelors of Computer Science at Monash University, alongside working on some large-scale tech projects.',
   paragraphTwo:
-    'Web Development is my main field of interest as the technologies used in the field are always constantly evolving and posing exciting new challenges. I code to create wonderful web experiences & interactions that have the ability to impact millions.',
+    'Web Development is my main field of interest as the technologies used in the field are always constantly evolving and posing exciting new challenges. I code to create wonderful experiences & interactions that have the ability to impact millions.',
   paragraphThree:
     'In my free time, I am either educating myself on new tech trends, participating in Team Sports, or simply just finding the latest new movies to watch.',
   resume: 'https://dl.dropboxusercontent.com/s/la8fvu9878aidci/Terence%20Ng%20Resume.pdf?dl=0',
