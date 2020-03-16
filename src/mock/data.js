@@ -23,10 +23,9 @@ export const aboutData = {
     'Web Development is my main field of interest as the technologies used in the field are always constantly evolving and posing exciting new challenges. I code to create wonderful experiences & interactions that have the ability to impact millions.',
   paragraphThree:
     'In my free time, I am either educating myself on new tech trends, participating in Team Sports, or simply just finding the latest new movies to watch.',
-  resume: 'https://dl.dropboxusercontent.com/s/la8fvu9878aidci/Terence%20Ng%20Resume.pdf?dl=0',
+  resume: 'https://dl.dropboxusercontent.com/s/qdlxv7oftmwlpd2/Terence%20Ng%20Resume.pdf?dl=0',
 };
-
-// PROJECTS DATA
+// PROJECTS DATA',
 export const projectsData = [
   {
     id: uuidv1(),
