@@ -29,25 +29,45 @@ export const aboutData = {
 export const projectsData = [
   {
     id: uuidv1(),
+    img: 'face-recognition.jpg',
+    title: 'Face Recognition App',
+    info:
+      'Full Stack App developed primarily using React.js, Node.js, Express.js, PostgreSQL. This app identifies & detects faces in any image supplied.',
+    // UPDATE LIVE URL ONCE DEPLOYED
+    url: 'https://github.com/terencehh/face-recognition-app',
+    repo: 'https://github.com/terencehh/face-recognition-app',
+  },
+  {
+    id: uuidv1(),
+    img: 'surveillance.jpg',
+    title: 'Motion Surveillance System',
+    info:
+      'Motion Surveillance System that will utilize webcams to provide live streaming functionality alongside motion detection video snapshots. Front-End is developed using the MEAN Stack, & Back-End using C++. Server & Storage Solution will utilize AWS.',
+    info2: 'Currently in Development now.',
+    url: '',
+    repo: 'https://github.com/Super-HD/motion-surveillance-system',
+  },
+  {
+    id: uuidv1(),
     img: 'e-commerce.jpg',
     title: 'E-Commerce Web App',
     info:
       'Fully Functional E-Commerce Web App prototype that contains the main functionalities seen in prominent e-commerce web app’s nowadays. Developed using React.js & Firebase.',
-    info2: 'Currently in Development',
+    info2: 'Currently in Development.',
     url: 'https://github.com/terencehh/e-commerce-app',
     repo: 'https://github.com/terencehh/e-commerce-app',
   },
   {
     id: uuidv1(),
-    img: 'face-recognition.jpg',
-    title: 'Face Recognition App',
+    img: 'save-my-time.jpg',
+    title: 'Save My Time (iOS App)',
     info:
-      'Full Stack App developed using the MERN (MongoDB, Express.js, React.js & Node.js) Stack. This app identifies & detects faces in any image supplied.',
-    info2: 'Currently in Development',
-    url: 'https://github.com/terencehh/face-recognition-app',
-    repo: 'https://github.com/terencehh/face-recognition-app',
+      'An iOS App I developed using Swift. This app is a time scheduler app & also an alarm app. Utilizes motion sensor on the phone to ensure the user is working productively during a specified time.',
+    info2:
+      'This App demonstrates standard Object-Oriented Programming alongside MVC Programming Architecture. Requires the user to compile the project on an iOS Device in order to run.',
+    url: '',
+    repo: 'https://github.com/terencehh/save-my-time-ios-app',
   },
-
   {
     id: uuidv1(),
     img: 'asteroids.jpg',
@@ -68,27 +88,6 @@ export const projectsData = [
     info2: '',
     url: 'https://terencehh.github.io/medium-replica/',
     repo: 'https://github.com/terencehh/medium-replica',
-  },
-  {
-    id: uuidv1(),
-    img: 'surveillance.jpg',
-    title: 'Motion Surveillance System',
-    info:
-      'Motion Surveillance System Project that will be delivered by attaching USB Webcams onto Laptops. Front-End will be Developed using the MEAN Stack, & Back-End using C++. Server + Storage Solution will utilize AWS.',
-    info2: 'Currently in Development.',
-    url: '',
-    repo: 'https://github.com/Super-HD/motion-surveillance-system',
-  },
-  {
-    id: uuidv1(),
-    img: 'save-my-time.jpg',
-    title: 'Save My Time (iOS App)',
-    info:
-      'An iOS App I developed using Swift. This app is a time scheduler app & also an alarm app. Utilizes motion sensor on the phone to ensure the user is working productively during a specified time.',
-    info2:
-      'This App demonstrates standard Object-Oriented Programming alongside MVC Programming Architecture. Requires the user to compile the project on an iOS Device in order to run.',
-    url: '',
-    repo: 'https://github.com/terencehh/save-my-time-ios-app',
   },
   {
     id: uuidv1(),
