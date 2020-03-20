@@ -126,7 +126,7 @@ export const footerData = {
     {
       id: uuidv1(),
       name: 'linkedin',
-      url: 'https://www.linkedin.com/in/terenceng147/',
+      url: 'https://www.linkedin.com/in/terencenghh/',
     },
     {
       id: uuidv1(),
