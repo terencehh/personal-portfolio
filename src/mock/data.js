@@ -32,7 +32,7 @@ export const projectsData = [
     img: 'face-recognition.jpg',
     title: 'Face Recognition App',
     info:
-      'Full Stack App developed primarily using React.js, Node.js, Express.js, PostgreSQL. This app identifies & detects faces in any image supplied.',
+      'Full Stack App developed primarily using React.js, Redux, Node.js, Express.js, PostgreSQL. This app identifies & detects faces in any image supplied.',
     url: 'https://face-detect-react-app.herokuapp.com/',
     repo: 'https://github.com/terencehh/face-recognition-app',
   },
