@@ -33,8 +33,7 @@ export const projectsData = [
     title: 'Face Recognition App',
     info:
       'Full Stack App developed primarily using React.js, Node.js, Express.js, PostgreSQL. This app identifies & detects faces in any image supplied.',
-    // UPDATE LIVE URL ONCE DEPLOYED
-    url: 'https://github.com/terencehh/face-recognition-app',
+    url: 'https://face-detect-react-app.herokuapp.com/',
     repo: 'https://github.com/terencehh/face-recognition-app',
   },
   {
