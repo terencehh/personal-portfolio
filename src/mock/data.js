@@ -41,10 +41,9 @@ export const projectsData = [
     img: 'surveillance.jpg',
     title: 'Motion Surveillance System',
     info:
-      'Motion Surveillance System that will utilize webcams to provide live streaming functionality alongside motion detection video snapshots. Front-End is developed using the MEAN Stack, & Back-End using C++. Server & Storage Solution will utilize AWS.',
-    info2: 'Currently in Development now.',
-    url: '',
-    repo: 'https://github.com/Super-HD/motion-surveillance-system',
+      'Motion Surveillance System that will utilize webcams to provide live streaming functionality alongside motion detection video snapshots. Front-End is developed using the MEAN Stack, Back-End is developed using AWS (Amazon Web Services) & DigitalOcean Server. Real-time image processing is achieved using OpenCV library.',
+    url: 'http://161.35.110.201:4200/',
+    repo: 'https://github.com/terencehh/motion-surveillance-system',
   },
   {
     id: uuidv1(),
