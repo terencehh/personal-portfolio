@@ -43,7 +43,7 @@ export const projectsData = [
     title: 'Motion Surveillance App',
     info:
       'Motion Surveillance System that will utilize webcams to provide live streaming functionality alongside motion detection video snapshots. Front-End is developed using the MEAN Stack, Back-End is developed using AWS (Amazon Web Services) & DigitalOcean Server. Real-time image processing is achieved using OpenCV library.',
-    url: 'http://161.35.110.201:4200/',
+    url: '',
     repo: 'https://github.com/terencehh/motion-surveillance-system',
   },
   {
