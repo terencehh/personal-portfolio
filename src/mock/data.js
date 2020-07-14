@@ -34,7 +34,7 @@ export const projectsData = [
     info:
       'An E-Commerce App Developed using React.js & Firebase. The App demonstrates senior level development approaches in React.js Projects, utilizing design patterns such as Observables & Higher-order components, as well as utilizing many technologies to improve scalability, performance, & development times. App is implemented as a Progressive Web App & tested using Jest Library.',
     info2: 'Currently in Development.',
-    url: 'https://github.com/terencehh/e-commerce-app',
+    url: 'https://crown-clothing-estore.herokuapp.com',
     repo: 'https://github.com/terencehh/e-commerce-app',
   },
   {
@@ -42,7 +42,7 @@ export const projectsData = [
     img: 'surveillance.jpg',
     title: 'Motion Surveillance App',
     info:
-      'Motion Surveillance System that will utilize webcams to provide live streaming functionality alongside motion detection video snapshots. Front-End is developed using the MEAN Stack, Back-End is developed using AWS (Amazon Web Services) & DigitalOcean Server. Real-time image processing is achieved using OpenCV library.',
+      'Motion Surveillance System that will utilize webcams to provide live streaming functionality alongside motion detection video snapshots. The System is a MEAN Stack App where Front-End is developed using Angular, & Back-End is developed using Node.js. AWS (Amazon Web Services), MongoDB Atlas, & DigitalOcean are used for online deployment. Real-time image processing is achieved using OpenCV library.',
     url: '',
     repo: 'https://github.com/terencehh/motion-surveillance-system',
   },
