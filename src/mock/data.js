@@ -18,7 +18,7 @@ export const heroData = {
 export const aboutData = {
   img: 'profile.jpg',
   paragraphOne:
-    'Hi there! I am a self-motivated individual with extreme passion towards software development. Presently undertaking Bachelors of Computer Science at Monash University, alongside working on some large-scale tech projects.',
+    'Hi there! I am a self-motivated individual with extreme passion towards software development. I am a fresh CS graduate from Monash University who is always keen to explore new experience/opportunities in the tech world!',
   paragraphTwo:
     'Full Stack Development is my main field of interest as the technologies used in the field are always constantly evolving and presenting exciting new opportunities. I also especially love the beauty of effectively connecting/integrating both front-end & back-end technologies into one. I code to create wonderful experiences & interactions that have the ability to impact millions.',
   paragraphThree:
