@@ -24,7 +24,6 @@
     "gatsby-plugin-sharp": "^2.4.0",
     "gatsby-source-filesystem": "^2.1.46",
     "gatsby-transformer-sharp": "^2.3.13",
-    "node-sass": "^7.0.0",
     "prop-types": "^15.7.2",
     "react": "^16.12.0",
     "react-bootstrap": "^1.0.0-beta.16",
@@ -47,7 +46,8 @@
     "eslint-plugin-react-hooks": "^2.3.0",
     "husky": "^4.2.1",
     "lint-staged": "^10.0.2",
-    "prettier": "^1.19.1"
+    "prettier": "^1.19.1",
+    "sass": "^1.52.3"
   },
   "repository": {
     "type": "git",
