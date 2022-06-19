@@ -33,7 +33,6 @@ export const projectsData = [
     title: 'Crown Clothing Store',
     info:
       'An E-Commerce App Developed using React.js & Firebase. The App demonstrates senior level development approaches in React.js Projects, utilizing design patterns such as Observables & Higher-order components, as well as utilizing many technologies to improve scalability, performance, & development times. App is implemented as a Progressive Web App & tested using Jest Library.',
-    info2: 'Currently in Development.',
     url: 'https://crown-clothing-estore.herokuapp.com',
     repo: 'https://github.com/terencehh/e-commerce-app',
   },
