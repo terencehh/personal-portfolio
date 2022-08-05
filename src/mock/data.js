@@ -30,7 +30,7 @@ export const aboutData = {
     into developing production-grade applications to this present day. I code in order to create wonderful experiences 
     & interactions that have the ability to impact millions/billions.`,
   paragraphThree: `A field of interest I am particularly keen to explore is Blockchain Technology. I am extremely confident that the future of the internet 
-    will be decentralized, with blockchain & Web3 as the key ignition point. I do not want to miss out when this happens. In my free time, 
+    will be decentralized, with Blockchain & Web3 as the key ignition point. In my free time, 
     I am either participating in team sports, finding the best food places to eat around town, or simply vibing to the latest songs/movies.`,
   resume: 'https://dl.dropboxusercontent.com/s/pn9yaoi84ib6l3c/Terence%20Ng%20Resume.pdf?dl=0',
 };
