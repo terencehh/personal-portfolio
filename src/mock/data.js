@@ -56,6 +56,14 @@ export const projectsData = [
   },
   {
     id: uuidv1(),
+    img: 'twitter-follower-app.png',
+    title: 'Twitter Follower App',
+    info: `App I created to interact with Twitter's API, Powered by React.js, Node.js, & Express.js. Initial Conception for the project was so that I am able to track new twitter accounts that influential people follow, with the main purpose of deriving crypto alpha. This app allows me to be aware of new emerging projects/figures earlier on Twitter.`,
+    url: 'https://twitter-app-front-end.herokuapp.com',
+    repo: 'https://github.com/terencehh/twitter-app-fe',
+  },
+  {
+    id: uuidv1(),
     img: 'save-my-time.jpg',
     title: 'Save My Time',
     info:
