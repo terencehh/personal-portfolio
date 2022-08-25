@@ -18,7 +18,7 @@ export const heroData = {
 export const aboutData = {
   img: 'profile.jpg',
   paragraphOne: `Hi there! I am an experienced Full Stack Engineer with an avid passion for Disruptive Technologies.
-     I am born in Malaysia, hail from Monash University, and am always keen to explore and experience new things in life!`,
+  I am born in Malaysia, hail from Monash University, and am always keen to explore and experience new things in life!`,
   paragraphTwo: `I have been involved in Full Stack Technologies in as early as my childhood days, from playing around with simple HTML/CSS, 
     into developing production-grade web applications to this present day. I code in order to create wonderful experiences 
     & interactions that have the ability to impact millions/billions.`,
