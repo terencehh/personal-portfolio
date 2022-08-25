@@ -14,26 +14,20 @@ export const heroData = {
   subtitle: "I'm the Software Engineer",
 };
 
-// Terence is a Full Stack Software Engineer and an avid Disruptive Technology Enthusiast. His Major Concentration is Web Technologies,
-// Web Application Design & Programming. Relevant Skills include UX, Usability, Database, & Networking.
-// Tools: Git, HTML, CSS, JavaScript, Python, Java, React.js, Angular, Redux, Bootstrap, Node.js, Postman, PostgreSQL, MongoDB, MySQL, AWS, Swift, Haskell, Express.
-
-// A Self-Motivated Full Stack Software Engineer with extreme passion towards Disruptive Technologies.
-// With years of proven expertise in full stack software engineering, Terence is always eager to contribute to a professional environment by offering an excellent work ethic and a strong commitment to quality performance.
-
 // ABOUT DATA
 export const aboutData = {
   img: 'profile.jpg',
   paragraphOne: `Hi there! I am an experienced Full Stack Engineer with an avid passion for Disruptive Technologies.
      I am born in Malaysia, hail from Monash University, and am always keen to explore and experience new things in life!`,
   paragraphTwo: `I have been involved in Full Stack Technologies in as early as my childhood days, from playing around with simple HTML/CSS, 
-    into developing production-grade applications to this present day. I code in order to create wonderful experiences 
+    into developing production-grade web applications to this present day. I code in order to create wonderful experiences 
     & interactions that have the ability to impact millions/billions.`,
   paragraphThree: `A field of interest I am particularly keen to explore is Blockchain Technology. I am extremely confident that the future of the internet 
     will be decentralized, with Blockchain & Web3 as the key ignition point. In my free time, 
-    I am either participating in team sports, finding the best food places to eat around town, or simply vibing to the latest songs/movies.`,
+    I am either participating in team sports, learning the latest technologies, or simply vibing to the latest songs/movies.`,
   resume: 'https://1drv.ms/b/s!Asfa8UbInX0qmvYwGS-mMKy6Mrt4OA',
 };
+
 // PROJECTS DATA',
 export const projectsData = [
   {
