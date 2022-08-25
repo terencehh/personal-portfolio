@@ -32,7 +32,7 @@ export const aboutData = {
   paragraphThree: `A field of interest I am particularly keen to explore is Blockchain Technology. I am extremely confident that the future of the internet 
     will be decentralized, with Blockchain & Web3 as the key ignition point. In my free time, 
     I am either participating in team sports, finding the best food places to eat around town, or simply vibing to the latest songs/movies.`,
-  resume: 'https://dl.dropboxusercontent.com/s/pn9yaoi84ib6l3c/Terence%20Ng%20Resume.pdf?dl=0',
+  resume: 'https://1drv.ms/b/s!Asfa8UbInX0qmvYwGS-mMKy6Mrt4OA',
 };
 // PROJECTS DATA',
 export const projectsData = [
