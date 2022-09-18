@@ -18,14 +18,11 @@ export const heroData = {
 export const aboutData = {
   img: 'profile.jpg',
   paragraphOne: `Hi there! I am an experienced Full Stack Engineer with an avid passion for Disruptive Technologies.
-  I am born in Malaysia, hail from Monash University, and am always keen to explore and experience new things in life!`,
-  paragraphTwo: `I have been involved in Full Stack Technologies in as early as my childhood days, from playing around with simple HTML/CSS, 
-    into developing production-grade web applications to this present day. I code in order to create wonderful experiences 
-    & interactions that have the ability to impact millions/billions.`,
-  paragraphThree: `A field of interest I am particularly keen to explore is Blockchain Technology. I am extremely confident that the future of the internet 
-    will be decentralized, with Blockchain & Web3 as the key ignition point. In my free time, 
-    I am either participating in team sports, learning the latest technologies, or simply vibing to the latest songs/movies.`,
-  resume: 'https://1drv.ms/b/s!Asfa8UbInX0qmvYwGS-mMKy6Mrt4OA',
+  Born in Malaysia and raised internationally across Singapore, Taiwan, Shanghai, & Melbourne, I am a global-minded indidividual with a passion for growth & social impact.`,
+  paragraphTwo: `I have been involved in full stack technologies in as early as my childhood days, from playing around with simple HTML/CSS, 
+    into now developing production-grade web applications. I code in order to create wonderful experiences that have the ability to impact millions/billions.`,
+  paragraphThree: `In my free time, I am either exercising, reading up about the present state of the world, or simply keeping up with the latest disruptive tech trends.`,
+  resume: 'https://1drv.ms/b/s!Asfa8UbInX0qoqMaEpckexE0fwP-GA',
 };
 
 // PROJECTS DATA',
@@ -34,7 +31,7 @@ export const projectsData = [
     id: uuidv1(),
     img: 'e-commerce.jpg',
     title: 'Crown Clothing Store',
-    info: `An E-Commerce App Developed using React.js & Firebase. The App demonstrates senior level development 
+    info: `E-Commerce App Developed using React.js & Firebase. The App demonstrates senior level development 
       approaches in React.js Projects, utilizing design patterns such as Observables & Higher-order components, 
       as well as utilizing many technologies to improve scalability, performance, & development times. 
       App is implemented as a Progressive Web App & tested using Jest Library.`,
@@ -76,7 +73,7 @@ export const projectsData = [
     id: uuidv1(),
     img: 'save-my-time.jpg',
     title: 'Save My Time',
-    info: `An iOS App I developed using Swift. This app is a time scheduler app & also an alarm app. 
+    info: `iOS App developed using Swift. This app is a time scheduler app & also an alarm app. 
       Utilizes motion sensor on the phone to ensure the user is working productively during a specified time.`,
     info2: `This App demonstrates standard Object-Oriented Programming alongside MVC Programming Architecture. 
       Requires the user to compile the project on an iOS Device in order to run.`,
@@ -108,7 +105,7 @@ export const projectsData = [
     id: uuidv1(),
     img: 'game-of-hearts.jpg',
     title: 'Game of Hearts AI',
-    info: `An AI Developed to play the game of hearts effectively against a group of specified players. 
+    info: `AI Developed to play the game of hearts effectively against a group of specified players. 
       The Project runs a simulation of the classic Game of Hearts against my AI.`,
     info2: `Demonstrates my proficiency of functional programming code design in Haskell. 
       Note that the project will require a Haskell Compiler to build.`,
@@ -130,7 +127,7 @@ export const footerData = {
     {
       id: uuidv1(),
       name: 'instagram',
-      url: 'https://www.instagram.com/terencenghan/',
+      url: 'https://www.instagram.com/_terencehh/',
     },
     {
       id: uuidv1(),
@@ -140,7 +137,7 @@ export const footerData = {
     {
       id: uuidv1(),
       name: 'linkedin',
-      url: 'https://www.linkedin.com/in/terencenghh/',
+      url: 'https://www.linkedin.com/in/terencehh/',
     },
     {
       id: uuidv1(),
