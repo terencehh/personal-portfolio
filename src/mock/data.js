@@ -22,7 +22,7 @@ export const aboutData = {
   paragraphTwo: `I have been involved in full stack technologies in as early as my childhood days, from playing around with simple HTML/CSS, 
     into now developing production-grade web applications. I code in order to create wonderful experiences that have the ability to impact millions/billions.`,
   paragraphThree: `In my free time, I am either exercising, reading up about the present state of the world, or simply keeping up with the latest disruptive tech trends.`,
-  resume: 'https://1drv.ms/b/s!Asfa8UbInX0qoqMaEpckexE0fwP-GA',
+  resume: 'https://www.icloud.com/pages/0bbxpEUXiD7UT7kbsqupDaMTw#Terence_Ng_Resume',
 };
 
 // PROJECTS DATA',
